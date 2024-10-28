@@ -20,3 +20,20 @@ header{
 .data{
     color: #808080;
 }
+
+.cell-bigger{
+    width: 75%;
+}
+
+.prima-riga{
+    background-color: #20A9E5;
+    color: white;
+}
+
+.seconda-riga{
+    background-color: #B1E5F2;
+}
+
+.terza-riga{
+    background-color: #B1E5F2 ;
+}
