@@ -4,6 +4,19 @@ header{
     height: 120px;
     background-size: 25%;
 }
+
 .logo{
     height: 50px;
+}
+
+.author-link{
+    color: #20A9E5;
+}
+
+.intestazione{
+    color: #808080;  
+  }
+  
+.data{
+    color: #808080;
 }
