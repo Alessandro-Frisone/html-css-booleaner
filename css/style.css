@@ -1,47 +1,57 @@
+/* insert photo with calibration */
 header{
     background-color: #4EA0FF;
     background-image: url('../img/pattern.png');
     height: 120px;
     background-size: 25%;
 }
-
+/* logo arrangement */
 .logo{
     height: 50px;
 }
 
+/* author arrangement */
 .author-link{
     color: #20A9E5;
 }
 
+/* data arrangement */
 .intestazione{
     color: #808080;  
   }
   
+  /* data arrangement */
 .data{
     color: #808080;
 }
 
+/* cell size */
 .cell-bigger{
     width: 75%;
 }
 
+/* cell color */
 .prima-riga{
     background-color: #20A9E5;
     color: white;
 }
 
+/* cell color */
 .seconda-riga{
     background-color: #B1E5F2;
 }
 
+/* cell color */
 .terza-riga{
     background-color: #B1E5F2 ;
 }
 
+/* color of a sentence */
 .interessi{
     color: #808080;
 }
 
+/* insert photo with caption */
 .box-img{
     background-image: url('../img/monitor.jpg');
     width: 300px;
@@ -50,6 +60,7 @@ header{
 
 }
 
+/* insert photo with caption */
 .box-img2{
     background-image: url('../img/graph.jpg');
     width: 300px;
